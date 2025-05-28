@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/*темная тема*/
+.dark {
+  background-color: #0a3967; /* Dark blue */
+  color: #000000;
+  min-height: 100vh;
+}
